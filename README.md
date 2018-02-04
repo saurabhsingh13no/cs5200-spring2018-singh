@@ -24,7 +24,7 @@ spring.datasource.validationQuery=SELECT 1
 ## Integrating Spring Boot with MySQL
 [Insert a static hello message](http://cs5200-spring2018-singh.us-east-1.elasticbeanstalk.com/api/hello/insert)<br>
 
-[Insert a parameterized hello message](http://cs5200-spring2018-singh.us-east-1.elasticbeanstalk.com/api/hello/insert/Spring is the best)<br>
+[Insert a parameterized hello message]("http://cs5200-spring2018-singh.us-east-1.elasticbeanstalk.com/api/hello/insert/Spring is the best")<br>
 
 [Retrieve all hello messages](http://cs5200-spring2018-singh.us-east-1.elasticbeanstalk.com/api/hello/select/all)
 
